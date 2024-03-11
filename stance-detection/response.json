@@ -1,1 +1,48 @@
-{ "25355": "Senador Paim, V. Exa. já tem um legado legislativo conhecido por todo o país, conseguiu deixar sua marca de retidão. Além disso, uma busca constante por respeito, nada mais do que o respeito, buscando também diminuir as injustiças e reconhecer os direitos que ainda são tão desrespeitados neste país. But, of all your speech, I want to highlight here that I accompanied you during these four years many times a thorough work. The work done exhaustively, sometimes with dozens of hours of public hearings by this House, is approved by unanimity, reaches the Chamber of Deputies and is placed on hold, and sooner or later comes another project with the same content for this House here. When it comes here, there is haste. So I believe that this dynamic also needs to be reconsidered so that we can seek efficiency and not duplication of work, and you treated with mastery here. Good night to all. I also thank the Senators who remained until now. The Presidency declares the conclusion of this deliberative session of the Federal Senate." }
+{
+    "summary": "The meeting held at the Brazilian Senate covered a range of topics including discussions on the humanitarian crisis of the Yanomami indigenous people, treatment of garimpeiros, initiatives to address the crisis, democracy, freedom of expression, indigenous rights, quilombolas' situation, racial equality, and anti-racism legislation.",
+    "list_latent_topics": [
+        "Humanitarian crisis of the Yanomami indigenous people",
+        "Treatment of garimpeiros in the area",
+        "Appointment of Minister Jhonatan de Jesus to the Court of Audit",
+        "Discussion on democracy and freedom of expression",
+        "Indigenous rights and protecting their lands",
+        "Situation of the quilombola communities",
+        "Racial equality and discrimination",
+        "Anti-racism legislation"
+    ],
+    "stances": {
+        "Humanitarian crisis of the Yanomami indigenous people": {
+            "O SR. CHICO RODRIGUES": "FOR",
+            "O SR. IRAJÁ": "NOT RELATED",
+            "O SR. PAULO PAIM": "FOR"
+        },
+        "Treatment of garimpeiros in the area": {
+            "O SR. CHICO RODRIGUES": "FOR",
+            "O SR. IRAJÁ": "NOT RELATED",
+            "O SR. PAULO PAIM": "FOR"
+        },
+        "Appointment of Minister Jhonatan de Jesus to the Court of Audit": {
+            "O SR. CHICO RODRIGUES": "NOT RELATED",
+            "O SR. IRAJÁ": "NOT RELATED",
+            "O SR. PAULO PAIM": "NOT RELATED"
+        },
+        "Discussion on democracy and freedom of expression": {
+            "O SR. CHICO RODRIGUES": "NOT RELATED",
+            "O SR. IRAJÁ": "NOT RELATED",
+            "O SR. PAULO PAIM": "NOT RELATED",
+            "O SR. JORGE SEIF": "NEUTRAL"
+        },
+        "Indigenous rights and protecting their lands": {
+            "O SR. PAULO PAIM": "FOR"
+        },
+        "Situation of the quilombola communities": {
+            "O SR. PAULO PAIM": "FOR"
+        },
+        "Racial equality and discrimination": {
+            "O SR. PAULO PAIM": "FOR"
+        },
+        "Anti-racism legislation": {
+            "O SR. PAULO PAIM": "FOR"
+        }
+    }
+}   
