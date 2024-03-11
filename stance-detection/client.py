@@ -33,9 +33,13 @@ class Client:
         response.raise_for_status()
         return response.json()["response"]
 
-    def get_response_gpt3(self, prompt: str, system: str) -> str | None:
+    def get_response_gpt3(self, prompt: str, system: str, use_json: bool = False) -> str | None:
         print(f"Prompt: {prompt}")
         print("=-=--=-=-=-=")
+
+        kwargs = {}
+        if use_json:
+            kwargs["response_format"] = {"type": "json_object"}
 
         response = self.openai_client.chat.completions.create(
             messages=[
@@ -49,6 +53,6 @@ class Client:
                 },
             ],
             model="gpt-3.5-turbo",
-            response_format={"type": "json_object"},
+            **kwargs,
         )
         return response.choices[0].message.content

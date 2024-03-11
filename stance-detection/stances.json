@@ -1,0 +1,67 @@
+{
+  "summary": "In the recorded plenary session, various topics were discussed, including the return to in-person sessions, advocacy for indigenous and mining communities in Roraima, appointments to the Court of Accounts, economic growth challenges, gender equality, agricultural issues, pedophilia prevention, humanitarian crises, and legislative efficiency.",
+  "list_latent_topics": [
+    "Return to in-person sessions",
+    "Advocacy for indigenous and mining communities in Roraima",
+    "Appointments to the Court of Accounts",
+    "Economic growth challenges",
+    "Gender equality",
+    "Agricultural issues",
+    "Pedophilia prevention",
+    "Humanitarian crises",
+    "Legislative efficiency"
+  ],
+  "stances": {
+    "Return to in-person sessions": {
+      "Rodrigo Pacheco": "FOR",
+      "Jorge Kajuru": "AGAINST",
+      "Daniella Ribeiro": "FOR",
+      "Weverton": "FOR"
+    },
+    "Advocacy for indigenous and mining communities in Roraima": {
+      "Dr. Hiran": "FOR",
+      "Mecias": "FOR",
+      "Chico Rodrigues": "FOR",
+      "Randolfe": "FOR",
+      "Otto Alencar": "FOR",
+      "Weverton": "FOR",
+      "Deputado Albuquerque": "FOR",
+      "Lucas Barreto": "FOR",
+      "Humberto Costa": "FOR",
+      "Flávio Arns": "FOR"
+    },
+    "Appointments to the Court of Accounts": {
+      "Mecias": "FOR",
+      "Dr. Hiran": "FOR",
+      "Weverton": "FOR",
+      "Lucas Barreto": "FOR"
+    },
+    "Economic growth challenges": {
+      "Jorge Kajuru": "AGAINST",
+      "Weverton": "FOR"
+    },
+    "Gender equality": {
+      "Eliziane Gama": "FOR",
+      "Soraya Thronicke": "FOR"
+    },
+    "Agricultural issues": {
+      "Laércio Oliveira": "FOR",
+      "Margareth Buzetti": "FOR",
+      "Flávio Arns": "FOR"
+    },
+    "Pedophilia prevention": {
+      "Magno Malta": "AGAINST",
+      "Magno Malta": "AGAINST"
+    },
+    "Humanitarian crises": {
+      "Chico Rodrigues": "FOR",
+      "Rodrigo Cunha": "FOR",
+      "Irajá": "FOR",
+      "Paulo Paim": "FOR"
+    },
+    "Legislative efficiency": {
+      "Rodrigo Cunha": "FOR",
+      "Paulo Paim": "FOR"
+    }
+  }
+}
